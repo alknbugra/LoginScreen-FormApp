@@ -1,0 +1,10 @@
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\bin\Debug\LoginClass.exe.config
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\bin\Debug\LoginClass.exe
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\bin\Debug\LoginClass.pdb
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.Form1.resources
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.Properties.Resources.resources
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.csproj.GenerateResource.Cache
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.exe
+C:\Users\ABRA\source\repos\LoginClass\LoginClass\obj\Debug\LoginClass.pdb
