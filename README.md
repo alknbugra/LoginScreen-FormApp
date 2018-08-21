@@ -1,3 +1,5 @@
+![login](https://user-images.githubusercontent.com/29266933/44431558-0661e300-a5a7-11e8-8082-46229cb92f0a.gif)
+
 # -----> LoginControl Class
 using System;
 using System.Collections.Generic;
